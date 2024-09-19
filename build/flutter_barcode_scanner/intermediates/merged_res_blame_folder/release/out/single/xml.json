@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\hackathon_ksu\\EBill_app\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\xml\\standalone_badge.xml",
+        "source": "C:\\Users\\aabdo\\.gradle\\caches\\transforms-3\\cca763904137afc1b8be410570cf9851\\transformed\\material-1.3.0\\res\\xml\\standalone_badge.xml"
+    },
+    {
+        "merged": "D:\\hackathon_ksu\\EBill_app\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "C:\\Users\\aabdo\\.gradle\\caches\\transforms-3\\cca763904137afc1b8be410570cf9851\\transformed\\material-1.3.0\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "D:\\hackathon_ksu\\EBill_app\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "C:\\Users\\aabdo\\.gradle\\caches\\transforms-3\\cca763904137afc1b8be410570cf9851\\transformed\\material-1.3.0\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "D:\\hackathon_ksu\\EBill_app\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\xml\\standalone_badge_offset.xml",
+        "source": "C:\\Users\\aabdo\\.gradle\\caches\\transforms-3\\cca763904137afc1b8be410570cf9851\\transformed\\material-1.3.0\\res\\xml\\standalone_badge_offset.xml"
+    },
+    {
+        "merged": "D:\\hackathon_ksu\\EBill_app\\build\\flutter_barcode_scanner\\intermediates\\merged_res\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "C:\\Users\\aabdo\\.gradle\\caches\\transforms-3\\cca763904137afc1b8be410570cf9851\\transformed\\material-1.3.0\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    }
+]
